@@ -68,16 +68,6 @@ TOGrupo2/
 
 ---
 
-##  Compilación y ejecución
-
-Cada práctica se compila de forma independiente con `g++`:
-
-```bash
-# Ejemplo con la Práctica 2
-cd Practica2
-g++ -std=c++17 -Wall main.cc -o main
-./main
-```
 
 ---
 
