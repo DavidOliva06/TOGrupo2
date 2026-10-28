@@ -42,16 +42,10 @@
 
 ##  Prácticas
 
-| Práctica | Carpeta | Código fuente |
-|:--:|:--:|:--:|
-| 🔹 **Práctica 2** | [ Practica2](Practica2/) | [`main.cc`](Practica2/main.cc) |
-| 🔹 **Práctica 3** | [ Practica3](Practica3/) | [`main.cc`](Practica3/main.cc) |
-
-<!--
-  Para agregar una nueva práctica, copia una fila de la tabla anterior y
-  cambia el número y las rutas, por ejemplo:
-  | 🔹 **Práctica 4** | [ Practica4](Practica4/) | [`main.cc`](Practica4/main.cc) |
--->
+| Práctica | Carpeta |
+|:--:|:--:|
+| **Práctica 2: Conversor Numero** | [ ConversorNumero](Practica2/conversornumero) |
+| **Práctica 2: MiniBiblioteca** | [ MiniBiblioteca](Practica2/MiniBiblioteca) |
 
 ---
 
