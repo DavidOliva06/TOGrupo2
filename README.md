@@ -54,7 +54,9 @@
 ```
 TOGrupo2/
 ├── Practica2/
-│   └── main.cc
+│   ├── README.md 
+│   ├── MiniBiblioteca/
+│   └── conversornumero/
 ├── Practica3/
 │   └── main.cc
 └── README.md
