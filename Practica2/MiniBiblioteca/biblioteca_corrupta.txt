@@ -1,0 +1,4 @@
+#MINIBIBLIOTECA v1
+L001;Cien años de soledad;Gabriel García Márquez;1967;1
+L002;La ciudad y los perros;Mario Vargas Llosa;mil novecientos;0
+L003;Los ríos profundos;José María Arguedas
