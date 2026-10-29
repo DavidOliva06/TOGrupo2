@@ -1,0 +1,3 @@
+C:\Users\LENOVO\Documents\qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\SistemaProductos.dir/objects.a
+C:\Users\LENOVO\Documents\qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\SistemaProductos.dir/objects.a @CMakeFiles\SistemaProductos.dir\objects1.rsp
+C:\Users\LENOVO\Documents\qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SistemaProductos.dir/objects.a -Wl,--no-whole-archive -o SistemaProductos.exe -Wl,--out-implib,libSistemaProductos.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SistemaProductos.dir\linkLibs.rsp
