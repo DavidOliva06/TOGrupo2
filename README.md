@@ -47,7 +47,8 @@
 | **Práctica 2: Conversor Numero** | [ ConversorNumero](Practica2/conversornumero) |
 | **Práctica 2: MiniBiblioteca** | [ MiniBiblioteca](Practica2/MiniBiblioteca) |
 | **Práctica 3: FuncionFriend** | [ FuncionFriend](Practica3/FuncionFriend) |
-| **Práctica 2: SistemaProductosQT** | [ MiniBiblioteca](Practica3/SistemaProductosQT) |
+| **Práctica 3: SistemaProductosQT** | [ MiniBiblioteca](Practica3/SistemaProductosQt) |
+| **Actividad: Templates** | [ EjerciciosTemplates](ActividadTemplates/EjerciciosTemplates) |
 
 ---
 
@@ -63,6 +64,9 @@ TOGrupo2/
 │   ├── README.md
 │   ├── SistemaProductosQT/
 │   └── FuncionFriend/
+├── ActividadTemplates/
+│   ├── README.md
+│   └── EjerciciosTemplates/
 └── README.md
 ```
 
